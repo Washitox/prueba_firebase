@@ -39,22 +39,27 @@ npx cap open android
 
 ## Uso
 
-v### Registro e Inicio de Sesión
+# Registro e Inicio de Sesión
 1. Al abrir la aplicación, los usuarios serán recibidos con la pantalla de inicio de sesión.
 2. Los nuevos usuarios pueden registrarse seleccionando la opción de "Crear cuenta" e ingresando su correo electrónico y contraseña.
 3. Los usuarios registrados pueden iniciar sesión ingresando sus credenciales previamente registradas.
 
-### Creación y Edición del Currículum Vitae (CV)
+# Creación y Edición del Currículum Vitae (CV)
 1. Una vez iniciada la sesión, los usuarios pueden acceder a su perfil personalizado.
 2. Desde el perfil, los usuarios tienen la opción de crear un nuevo CV o editar un CV existente.
 3. Para crear un nuevo CV, los usuarios pueden completar los campos de información personal, experiencia laboral y educación.
 4. Para editar un CV existente, los usuarios pueden seleccionar el CV deseado desde su lista de CV y realizar las modificaciones necesarias.
 
-### Visualización del Currículum Vitae (CV)
+# Visualización del Currículum Vitae (CV)
 1. Después de crear o editar un CV, los usuarios pueden visualizarlo en formato de tarjeta.
 2. El CV incluirá secciones para la información personal, la experiencia laboral y la educación, organizadas de manera clara y legible.
 
-### Cierre de Sesión
+# Cierre de Sesión
 1. Los usuarios pueden cerrar sesión en cualquier momento seleccionando la opción de "Cerrar sesión" desde el menú de la aplicación.
 2. Después de cerrar sesión, los usuarios serán redirigidos a la pantalla de inicio de sesión.
+
+##Conclusiones y recomendaciones
+1. Tener en cuenta el incio de seción con firebase estableciendo bien el cliente.
+2. Mas uso de las cuentas porque entra con cualquier registro a ver el curriculum.
+3. Dedicar más tiempo a los enlaces de entrada para las cuentas y registro de nuestro guardado
 
