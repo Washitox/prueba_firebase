@@ -6,7 +6,7 @@ Breve descripción o resumen de tu proyecto.
 
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Conclusiones y recomendaciones].(#Conclusiones y recomendaciones).
+- [Conclusiones y recomendaciones](#Conclusiones y recomendaciones)
 ## Instalación
 
 # Paso 1: Instalación de Ionic CLI y Node.js
